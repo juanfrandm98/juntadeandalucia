@@ -1,1 +1,43 @@
-/* You can add global styles to this file, and also import other style files */
+.fondo-buscador {
+    max-height: 800px;
+    width: 100%;
+    background-image: "images/prueba1.jpg";
+}
+
+.img-fondo {
+    height: 350px;
+}
+
+.text-green {
+    color: #368f3f;
+}
+
+.text-green-bold {
+    color: #368f3f;
+    font-weight: bold;
+}
+
+.icon-green {
+    color: #368f3f;
+}
+
+.grey-icon {
+    color: grey;
+}
+
+.grey-icon:hover {
+    color: #368f3f;
+    border-bottom: 2px solid #368f3f;
+}
+
+.junta-icono-menu {
+    max-height: 16px;
+}
+
+.navbar-underlined:hover {
+    text-decoration: underline;
+}
+
+.semitransparente {
+    background-color: hsla(0, 0%, 50%, 1);
+}
