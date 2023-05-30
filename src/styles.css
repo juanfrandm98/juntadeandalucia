@@ -38,6 +38,10 @@
     text-decoration: underline;
 }
 
+.overunderlined:hover {
+    text-decoration: underline;
+}
+
 .semitransparente {
     background-color: hsla(0, 0%, 50%, 1);
 }

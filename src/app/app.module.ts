@@ -7,6 +7,7 @@ import { RedesSocialesComponent } from './redes-sociales/redes-sociales.componen
 import { NavegacionComponent } from './navegacion/navegacion.component';
 import { BuscadorComponent } from './buscador/buscador.component';
 import { EnlacesComponent } from './enlaces/enlaces.component';
+import { PanelUcraniaComponent } from './panel-ucrania/panel-ucrania.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { EnlacesComponent } from './enlaces/enlaces.component';
     RedesSocialesComponent,
     NavegacionComponent,
     BuscadorComponent,
-    EnlacesComponent
+    EnlacesComponent,
+    PanelUcraniaComponent
   ],
   imports: [
     BrowserModule,
